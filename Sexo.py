@@ -1,4 +1,4 @@
-pritn("Juan")
+print("Juan")
 
 print("hola")
 
