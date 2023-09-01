@@ -1,3 +1,5 @@
+pritn("Juan")
+
 print("hola")
 
 print("Buen dia grupo")
